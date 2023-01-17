@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about my hobbies!
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love animals and art!
-<
+-->
