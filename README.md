@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <!---->
-**lmcelhattan/lmcelhattan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lmcelhattan/lmcelhattan** Welcome to my `README.md`!
 
-Here are some ideas to get you started:
+Here are some fun facts about me:
 
 - 🔭 I’m currently working on my Ph.D. at the University of Florida.
 - 🌱 I’m currently learning how to code and research my topics of interest.
@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with new material that I have never seen before
 - 💬 Ask me about my hobbies!
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love animals and art!
+- ⚡ Fun fact: I love working with animals and art!
 
